@@ -1,6 +1,7 @@
 # create-a-multi-container-host-networking-using-VLAN-overlay-networks.
 <br/><br/>
-
+<img src="https://github.com/faayam/vxlan-docker-hands-on/raw/main/vxlan-diagram.png"/><br/>
+<small>Image Courtesy faysalmehedi</small><br/><br/>
 VM1 CODE<br/>
 
 ubuntu@ip-172-31-33-25:~$ sudo apt install -y docker.io<br/><br/>
